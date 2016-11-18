@@ -15,3 +15,5 @@
 #
 
 add_lunch_combo aosp_deb-userdebug
+add_lunch_combo maru_deb-userdebug
+add_lunch_combo maru_deb-user
